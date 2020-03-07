@@ -1,9 +1,11 @@
 These are the official lab instructions for the k-space lab on for the Stockholm University course Magnetic Resonance Imaging (FK8032). 
 
-To access the instructions, you can open it as a Jupyter Notebook in MyBinder by clicking below
+If you are unfamiliar with Jupyter Notebooks or if you don't have Python set up on your own computer, you can access the lab through MyBinder by clicking below
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fyrdahl/kspace-lab/master)
 
-You can also choose to download the Jupyter Notebook, or if you prefer, a plain ``*.py`` file.
+If you prefer to work in your own environment, download the Notebook or the plain ``*.py`` file.
 
-Lab instructions are available as plan text <a href="https://htmlpreview.github.io/?https://github.com/fyrdahl/kspace-lab/blob/master/index.html">here</a>!
+Lab instructions are available in text form, either as <a href="https://htmlpreview.github.io/?https://github.com/fyrdahl/kspace-lab/blob/master/index.html">HTML</a> or <a href="https://github.com/fyrdahl/kspace-lab/blob/master/kspacelab.pdf">PDF</a>!
+
+Good luck! If you have any questions, please contact me on alexander.fyrdahl[at]ki.se
