@@ -4,7 +4,7 @@ If you are unfamiliar with Jupyter Notebooks or if you don't have Python set up 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fyrdahl/kspace-lab/master)
 
-If you prefer to work in your own environment, download the Notebook or the plain ``*.py`` file.
+If you prefer to work in your own environment, download the ``*.ipynb`` or the plain ``*.py`` file. Don't forget ``data.h5``.
 
 Lab instructions are available in text form, either as <a href="https://htmlpreview.github.io/?https://github.com/fyrdahl/kspace-lab/blob/master/index.html">HTML</a> or <a href="https://github.com/fyrdahl/kspace-lab/blob/master/kspacelab.pdf">PDF</a>!
 
