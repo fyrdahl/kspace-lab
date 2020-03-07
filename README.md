@@ -6,6 +6,6 @@ If you are unfamiliar with Jupyter Notebooks or if you don't have Python set up 
 
 If you prefer to work in your own environment, download the ``*.ipynb`` or the plain ``*.py`` file. Don't forget ``data.h5``.
 
-Lab instructions are available in text form, either as <a href="https://htmlpreview.github.io/?https://github.com/fyrdahl/kspace-lab/blob/master/kspacelab.html">HTML</a> or <a href="https://github.com/fyrdahl/kspace-lab/blob/master/kspacelab.pdf">PDF</a>!
+Lab instructions are available in text form, either as [HTML](https://htmlpreview.github.io/?https://github.com/fyrdahl/kspace-lab/blob/master/kspacelab.html) or [PDF](kspacelab.pdf)!
 
 Good luck! If you have any questions, please contact me on alexander.fyrdahl[at]gmail.com
