@@ -8,4 +8,4 @@ If you prefer to work in your own environment, download the ``*.ipynb`` or the p
 
 Lab instructions are available in text form, either as <a href="https://htmlpreview.github.io/?https://github.com/fyrdahl/kspace-lab/blob/master/index.html">HTML</a> or <a href="https://github.com/fyrdahl/kspace-lab/blob/master/kspacelab.pdf">PDF</a>!
 
-Good luck! If you have any questions, please contact me on alexander.fyrdahl[at]ki.se
+Good luck! If you have any questions, please contact me on alexander.fyrdahl[at]gmail.com
