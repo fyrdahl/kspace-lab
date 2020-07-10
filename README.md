@@ -3,5 +3,3 @@ These are the official lab instructions for the k-space lab for the Stockholm Un
 If you are unfamiliar with Jupyter Notebooks or if you don't have Python set up on your own computer, you can access the lab through MyBinder by clicking below
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fyrdahl/kspace-lab/master?filepath=kspacelab.ipynb)
-
-Good luck! If you have any questions, please contact me on alexander.fyrdahl[at]gmail.com
