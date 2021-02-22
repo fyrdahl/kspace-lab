@@ -6,4 +6,5 @@ If you don't have Python set up on your own computer, you can access the lab dir
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fyrdahl/kspace-lab/blob/master/kspacelab.ipynb)
 
 If you only want the instructions, without launcing a Jupyter notebook, click below
+
 [![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fyrdahl/kspace-lab/blob/master/kspacelab.ipynb)
