@@ -6,9 +6,9 @@ If you don't have Python set up on your computer, you can access the lab directl
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fyrdahl/kspace-lab/HEAD)
 
 
-If you only want to render the instructions, without launching a Jupyter Notebook, click below
+If you only want to render the instructions without launching a Jupyter Notebook, click below
 
-[![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fyrdahl/kspace-lab/blob/master/kspacelab.ipynb)
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fyrdahl/kspace-lab/blob/master/kspacelab.ipynb)
 
 Required packages:
 * numpy
