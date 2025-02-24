@@ -3,7 +3,7 @@ These are the official lab instructions for the k-space lab for the Stockholm Un
 If you don't have Python set up on your computer, you can access the lab directly with Google Colab (recommended, but requires a Google Account) or Binder by clicking the links below
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fyrdahl/kspace-lab/blob/master/kspacelab.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fyrdahl/kspace-lab/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fyrdahl/kspace-lab/HEAD?urlpath=%2Fdoc%2Ftree%2Fkspacelab.ipynb)
 
 
 If you only want to render the instructions without launching a Jupyter Notebook, click below
