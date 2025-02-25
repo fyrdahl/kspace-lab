@@ -40,7 +40,7 @@ Find your access token in the terminal output and paste it into a web browser, e
 This exercise and the subsequent report is part of the examination of the course FK8032.
 It is not allowed to use generative AI to solve the problems, or to write the subsequent lab report.
 
-If you choose to work in Google Colab, you can turn of generative AI features by clicking Tools -> Settings -> AI Assistance
+If you choose to work in Google Colab, you can turn off generative AI features by clicking Tools -> Settings -> AI Assistance
 
 
 <img src="img/gen-ai.png" width="512">
