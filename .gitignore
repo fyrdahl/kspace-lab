@@ -48,6 +48,9 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
-.DS_Store
+**/*~
+**/*.log
+**/.DS_Store
+**/Thumbs.db
 **.\#*
 **\#*
