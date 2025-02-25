@@ -1,2 +1,4 @@
 *
 !/binder/**/*
+!data.h5
+!kspacelab.ipynb
