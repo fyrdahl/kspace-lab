@@ -32,6 +32,7 @@ jobs:
           file: ./Dockerfile
           builder: ${{ steps.buildx.outputs.name }}
           push: true
+          platforms: linux/amd64,linux/arm64
           tags: ${{ secrets.DOCKER_USERNAME }}/kspace-lab:latest
           cache-from: type=registry,ref=${{ secrets.DOCKER_USERNAME }}/kspace-lab:buildcache
           cache-to: type=registry,ref=${{ secrets.DOCKER_USERNAME }}/kspace-lab:buildcache,mode=max
